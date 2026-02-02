@@ -1,115 +1,102 @@
-# 👋 Hi, I'm Iftekher
+# Hi there, I'm Iftekher 👋
 
- Web Application Developer  
- Building scalable, secure, and high-performance web applications
-
----
-
-## 🧑‍💻 About Me
-
-I am a passionate **Web Application Developer** with strong experience in backend and API development, along with modern frontend technologies.  
-I enjoy designing clean architectures, writing maintainable code, and building real-world web solutions.
-
-- 🔹 Backend & API focused developer
-- 🔹 Strong understanding of web application workflows
-- 🔹 Love working with databases and server-side logic
-- 🔹 Always learning and improving
-
----
-## 🛠️ Skills & Technologies
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💻 Programming
-- C#
-- Python
-- JavaScript
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Backend & API
-- Django
-- ASP.NET / .NET
-- RESTful API
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- React.js
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🗄️ Databases
-- MySQL
-- SQLite3
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 Auth & Security
-- JWT Authentication
-- Role-Based Access
-- Session Management
-
-</td>
-<td width="33%" valign="top">
-
-### 🛠️ Tools
-- Git & GitHub
-- VS Code
-- Postman
-
-</td>
-</tr>
-</table>
+**Web Application Developer** | Building scalable, secure, and high-performance applications
 
 ---
 
-## 🔌 API Development
+## 👨‍💻 About Me
 
-- ✔️ RESTful API Design & Implementation  
-- ✔️ Authentication & Authorization  
-- ✔️ JSON-based Data Communication  
-- ✔️ API Integration with Frontend (React / HTML Templates)
+I'm a passionate web developer specializing in backend development and API design, with a strong foundation in modern frontend technologies. I focus on creating clean, maintainable code and building robust web solutions that solve real-world problems.
 
----
-
-## 📌 What I Do
-
-- ✔️ Web Application Development  
-- ✔️ Backend & API Development  
-- ✔️ Frontend Integration  
-- ✔️ Database Design & Optimization  
-- ✔️ CRUD & Business Applications  
-- ✔️ Authentication Systems  
+```
+🔹 Backend & API Development Specialist
+🔹 Strong focus on scalable architecture
+🔹 Database design & optimization enthusiast
+🔹 Continuous learner and problem solver
+```
 
 ---
 
-## 📈 Career Goals
+## 🛠️ Tech Stack
 
-- 🔥 Become a highly skilled **Full-Stack Developer**
-- 🌍 Build large-scale, production-ready applications
-- 🤝 Contribute to **Open Source Projects**
-- 🚀 Work with modern frameworks and cloud-based systems
+### Backend Development
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Core Competencies
 
-- 💼 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@example.com  
+### API Development & Integration
+- ✅ RESTful API design and implementation
+- ✅ JWT authentication & authorization
+- ✅ Role-based access control (RBAC)
+- ✅ JSON data communication
+- ✅ Frontend-backend integration
+
+### Application Development
+- ✅ Full-stack web applications
+- ✅ Database design & optimization
+- ✅ CRUD operations & business logic
+- ✅ Session management & security
+- ✅ Scalable architecture patterns
 
 ---
 
-⭐ *Feel free to explore my repositories. If you like my work, don’t forget to give a star!*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftekherc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftekherc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔥 Advancing full-stack development skills
+- 🌐 Building production-ready, scalable applications
+- 🤝 Contributing to open-source projects
+- ☁️ Exploring cloud technologies and modern frameworks
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/iftekherc">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:iftekher-87dsdp@dipti.com.bd">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftekherc&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
+
+<p align="center">
+  ⭐ <i>If you find my work interesting, feel free to explore my repositories and drop a star!</i> ⭐
+</p>
