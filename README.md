@@ -16,35 +16,63 @@ I enjoy designing clean architectures, writing maintainable code, and building r
 - 🔹 Always learning and improving
 
 ---
+## 🛠️ Skills & Technologies
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 💻 Programming Languages
-- **C#**
-- **Python**
-- **JavaScript**
+### 💻 Programming
+- C#
+- Python
+- JavaScript
 
----
+</td>
+<td width="33%" valign="top">
 
-### ⚙️ Backend & Frameworks
-- **Django**
-- **ASP.NET / .NET (C#)**
-- **RESTful API Development**
+### ⚙️ Backend & API
+- Django
+- ASP.NET / .NET
+- RESTful API
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🌐 Frontend Technologies
-- **HTML5**
-- **CSS3**
-- **Bootstrap**
-- **Tailwind CSS**
-- **React.js**
+### 🌐 Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- React.js
 
----
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 ### 🗄️ Databases
-- **MySQL**
-- **SQLite3**
+- MySQL
+- SQLite3
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Auth & Security
+- JWT Authentication
+- Role-Based Access
+- Session Management
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+</td>
+</tr>
+</table>
 
 ---
 
